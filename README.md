@@ -19,13 +19,15 @@ Template base para proyectos de análisis de datos en Python, utilizando **[Poet
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/username/data-analysis-template-python-poetry.git
+https://github.com/SantiRendon/data-analysis-template-python-poetry.git
+```
 
+2. Navega al directorio del proyecto:
+```bash
 cd data-analysis-template-python-poetry
-````
+```
 
-2. Instala las dependencias del proyecto con Poetry:
-
+3. Instala las dependencias del proyecto con Poetry:
 ```bash
 poetry install
 ```
@@ -82,6 +84,7 @@ poetry add pandas matplotlib jupyterlab
 ```bash
 poetry install --with dev
 ```
+
 ## 🗂️ Estructura del Proyecto
 
 ```
