@@ -11,8 +11,8 @@ Template base para proyectos de análisis de datos en Python, utilizando **[Poet
 
 ## ⚙️ Requisitos
 
-- Python 3.8 o superior
-- Poetry ([ver instrucciones de instalación](https://python-poetry.org/docs/#installation))
+- Python 3.9 o superior
+- Poetry ([ver instrucciones de instalación](https://python-poetry.org/docs/#installing-with-the-official-installer))
 
 ## 🚀 Instalación rápida
 
